@@ -1,0 +1,13 @@
+body{
+    background:url("images/bb..jpeg")
+        no-repeat center center fixed;
+   
+}
+h1{
+    font-size: 6em;
+/*    font-family: 'Josefin Sans', sans-serif;*/
+/*    font-family: 'Spectral SC', serif;*/
+    font-family: 'Risque', cursive;
+    color: aliceblue;
+   
+}
